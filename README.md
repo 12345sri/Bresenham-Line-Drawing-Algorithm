@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements **Bresenham's Line Drawing Algorithm** in C++ using the **graphics.h** library. It is an interactive educational tool that allows users to draw lines using mouse clicks while visualizing the algorithm's pixel-by-pixel execution. The project was developed as part of the Computer Graphics course at Chandigarh University. CG project report.pdf
+This project implements **Bresenham's Line Drawing Algorithm** in C++ using the **graphics.h** library. It is an interactive educational tool that allows users to draw lines using mouse clicks while visualizing the algorithm's pixel-by-pixel execution. The project was developed as part of the Computer Graphics course at Chandigarh University. 
 
 ---
 
@@ -14,7 +14,7 @@ This project implements **Bresenham's Line Drawing Algorithm** in C++ using the 
 - Bresenham's Line Drawing Algorithm implementation
 - Lightweight educational graphics application
 
-The report describes these features as the core functionality of the project. CG project report.pdf
+The report describes these features as the core functionality of the project. 
 
 ---
 
@@ -36,7 +36,7 @@ The report describes these features as the core functionality of the project. CG
 5. Draw the line using Bresenham's Algorithm.
 6. Repeat until the user exits.
 
-This workflow matches the implementation plan in the report. CG project report.pdf
+This workflow matches the implementation plan in the report. 
 
 ---
 
@@ -59,7 +59,7 @@ LICENSE
 
 ## Results
 
-The implementation successfully demonstrates Bresenham's Line Drawing Algorithm through an interactive interface with accurate pixel plotting and color selection. CG project report.pdf
+The implementation successfully demonstrates Bresenham's Line Drawing Algorithm through an interactive interface with accurate pixel plotting and color selection. 
 
 ---
 
@@ -71,7 +71,7 @@ The implementation successfully demonstrates Bresenham's Line Drawing Algorithm 
 - Undo / Redo
 - Save Canvas Feature
 
-These enhancements are listed in the project's future work section. CG project report.pdf
+These enhancements are listed in the project's future work section. 
 
 ---
 
@@ -81,7 +81,7 @@ These enhancements are listed in the project's future work section. CG project r
 - Manmoy Khastagir
 - Md. Mahdi Hasan
 
-Developed as a Computer Graphics course project at Chandigarh University. CG project report.pdf
+Developed as a Computer Graphics course project at Chandigarh University. 
 
 ---
 
