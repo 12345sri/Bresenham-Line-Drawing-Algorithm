@@ -42,20 +42,32 @@ This workflow matches the implementation plan in the report.
 
 ## Project Structure
 
+## Project Structure
+
+```text
+Bresenham-Line-Drawing-Algorithm/
+├── figures/
+│   ├── flowchart.jpeg
+│   ├── code-part1.jpeg
+│   └── code-part2.jpeg
+├── report/
+│   └── Bresenham_Line_Drawing_Report.pdf
+├── README.md
+└── LICENSE
 ```
-src/
-│── main.cpp
-
-report/
-│── Project_Report.pdf
-
-screenshots/
-
-README.md
-LICENSE
-```
-
 ---
+
+## Project Figures
+
+### Algorithm Flowchart
+
+![Flowchart](figures/flowchart.jpeg)
+
+### Bresenham Algorithm Implementation
+
+![Code Part 1](figures/code-part1.jpeg)
+
+![Code Part 2](figures/code-part2.jpeg)
 
 ## Results
 
